@@ -30,6 +30,7 @@ github_username:  martinapugliese
 
 # Build settings
 theme: just-the-docs
+remote_theme: pmarceill/just-the-docs
 plugins:
   - jekyll-feed
 
