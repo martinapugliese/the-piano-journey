@@ -30,4 +30,4 @@ Remember, the piano is a marvelous instrument (I love all music, but the piano w
 
 ## Contents
 
-### [Basics]({{site.url}}/basics)
+### [Fundamentals]({{site.url}}/fundamentals)
