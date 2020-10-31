@@ -21,7 +21,7 @@
 title:            "The Piano Journey"
 email:
 description:      A guided journey towards learning to play the piano.
-url:              "https://martinapugliese.github.io/the-piano-journey" # the base hostname & protocol for your site, e.g. http://example.com
+#url:              "https://martinapugliese.github.io/the-piano-journey" # the base hostname & protocol for your site, e.g. http://example.com
 #baseurl:          "/the-piano-journey" # the subpath of your site, e.g. /blog
 logo:            "/assets/piano-logo.png"
 repository:      "martinapugliese/the-piano-journey"
