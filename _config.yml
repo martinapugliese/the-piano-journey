@@ -18,12 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: The Piano Journey
+title:            "The Piano Journey"
 email:
-description: A guided journey towards learning to play the piano.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-logo: "/assets/piano-logo.png"
+description:      A guided journey towards learning to play the piano.
+#url:              "https://martinapugliese.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl:          "/the_piano_journey" # the subpath of your site, e.g. /blog
+logo:            "/assets/piano-logo.png"
+repository:      "martinapugliese/the-piano-journey"
 twitter_username: m_letitbe
 github_username:  martinapugliese
 
@@ -33,6 +34,12 @@ plugins:
   - jekyll-feed
 
 color_scheme: piano
+
+aux_links:
+  "On Github":
+    - "https://github.com/martinapugliese/the-piano-journey"
+  "Reach out on Twitter":
+    - "https://twitter.com/m_letitbe"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

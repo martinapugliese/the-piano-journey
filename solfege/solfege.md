@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Solfege
-nav_order: 2
+#title: Solfege
+nav_order: 3
 has_children: false
 permalink: solfege/
 ---
 
-Solfege is ...
+Page in progress.
