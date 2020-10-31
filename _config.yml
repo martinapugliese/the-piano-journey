@@ -19,10 +19,11 @@
 # in the templates via {{ site.myvariable }}.
 
 title: The Piano Journey
-email: your-email@example.com
+email:
 description: A guided journey towards learning to play the piano.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+logo: "/assets/piano-logo.png"
 twitter_username: m_letitbe
 github_username:  martinapugliese
 
@@ -41,14 +42,14 @@ color_scheme: piano
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
