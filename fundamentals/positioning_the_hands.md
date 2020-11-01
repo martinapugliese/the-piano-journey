@@ -6,7 +6,7 @@ parent: Fundamentals
 has_children: false
 ---
 
-# Positioning the hands
+# Positioning the hands on a keyboard
 
 Learning to place your hands on a keyboard is essential to start, and then learning to move them is necessary to be able to play something, and eventually acquire agility.
 
