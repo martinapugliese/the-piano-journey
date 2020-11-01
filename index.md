@@ -34,4 +34,4 @@ What do you need to know to start with this? Not much, or nothing really - the j
 
 ## Contents
 
-### [Fundamentals]({{site.url}}/fundamentals)
+### [Fundamentals]({{site.url}}{{site.baseurl}}/fundamentals)
