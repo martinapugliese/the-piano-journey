@@ -10,7 +10,7 @@ has_children: false
 
 You obviously need to know how to read music, especially that for piano. The piano uses two of the three existing clefs, so you'd normally see piano music written as such:
 
-<img src="{{site.url}}/assets/images/fundamentals/two_clefs.png" width="300">
+<img src="{{site.url}}{{site.images_folder}}/fundamentals/two_clefs.png" width="300">
 
 We have two staves (or "staffs" if you're American): a stave consists of 5 lines and 4 spaces, numbered from the bottom, so you go from the first line to the fifth line and from the first space to the fourth space. These staves joined by a curly bracket, each with its own clef: a treble clef above and a bass clef below.
 
